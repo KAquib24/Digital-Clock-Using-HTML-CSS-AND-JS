@@ -12,7 +12,7 @@ A real-time **Digital Clock** built using **HTML, CSS, and JavaScript**. It dyna
 
 ## 📸 Preview  
 
-![Digital Clock Screenshot](#) *(Replace with a screenshot of your project)*  
+https://kaquib24.github.io/Digital-Clock-Using-HTML-CSS-AND-JS/
 
 ## 🛠️ Technologies Used  
 
