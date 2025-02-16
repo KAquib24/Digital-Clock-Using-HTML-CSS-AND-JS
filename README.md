@@ -27,7 +27,13 @@ https://kaquib24.github.io/Digital-Clock-Using-HTML-CSS-AND-JS/
  ├── 🎨 style.css  (Styling for the clock)  
  ├── 🎯 script.js  (JavaScript logic)  
  └── 📄 README.md  (Project documentation)  
-```  
+
+🔗 Clone the Project
+
+To clone and run this project,Download this repo using below link:
+https://github.com/KAquib24/Digital-Clock-Using-HTML-CSS-AND-JS.git
+
+Replace <your-repository-link> with the actual GitHub/GitLab/Bitbucket repository URL where your project is hosted.
 
 ## 🚀 How It Works  
 
